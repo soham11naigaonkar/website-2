@@ -12,7 +12,7 @@ setup(
 
     name="anjos.website",
     version="1.0.1",
-    description="My professional website",
+    description="My Professional Website",#just made it uppercase to look nice:)
     license="FreeBSD",
     author='Andre Anjos',
     author_email='andre.dos.anjos@gmail.com',
